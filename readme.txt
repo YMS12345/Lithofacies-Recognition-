@@ -1,6 +1,6 @@
 Name of the program: Lithofacies Recognition
 
-Title of the manuscirpt: Application of a Novel Core Drilling Data Preprocessing Method for the Identification of Lithofacies Based on Deep Artificial Neural Networks
+Title of the paper: Application of Artificial Neural Networks for Identification of Lithofacies by Processing of Core Drilling Data
 
 Author: Mingsheng Yang, Yuanbiao Hu, Baolin Liu, Lu Wang, Zheng Zhou, Mingrang Jia
 
